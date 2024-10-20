@@ -21,6 +21,10 @@ You can click the Preview link to take a look at your changes.
 ## Parrots Code
 ![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966](https://github.com/user-attachments/assets/3e9ccf4a-650a-4992-8172-f1bda5f8321a)  ![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f6972616e706172726f742e676966](https://github.com/user-attachments/assets/eea8c17e-6209-420f-9204-4fb72bf6388e)    ![238200838-76036311-c8ea-4247-8bf8-a7077623036c](https://github.com/user-attachments/assets/ecb32e2c-1927-4861-a715-f6585a9bbcfa) ![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/c9480087-fda6-41e3-b593-e8d73dd8bb71) 
 
+## Oh No! My contributions
+
+![snake gif](https://github.com/ronie-coder/ronie-coder/blob/output/github-snake-dark.svg)
+
 
 
 
