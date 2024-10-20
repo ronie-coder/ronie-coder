@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ronie-coder
-![Uploading 240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif…]()
-
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -16,3 +14,6 @@ You can click the Preview link to take a look at your changes.
 ![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/8f47155a-636b-45bd-b4bd-dc5e4f61782d)
 ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/017ce123-ef93-4fd6-9271-8dbe018c7127)
 ![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/e8c1af41-8d95-45d8-869e-b7c2a0732db8)
+
+
+![snake gif](https://github.com/ronie-coder/ronie-coder/blob/output/github-contribution-grid-snake.gif)
